@@ -1,10 +1,10 @@
-Formation,Upper Boundary (ft),Lower Boundary (ft),Thickness (ft)
+Formation,Upper,Lower,Thickness
 Clearfork,3980,4900,920
-Upper Spra,4900,5070,170
-Mid Spra,5070,5480,410
-Low Spra,5480,6230,750
+Upper Spraberry,4900,5070,170
+Mid Spraberry,5070,5480,410
+Low Spraberry,5480,6230,750
 Dean,6230,6380,150
 Wolfcamp A,6380,6790,410
-B,6790,7560,770
-C,7560,8280,720
-D,8280,8990,710
+Wolfcamp B,6790,7560,770
+Wolfcamp C,7560,8280,720
+Wolfcamp D,8280,8990,710
